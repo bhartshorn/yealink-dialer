@@ -1,4 +1,4 @@
-# yealink-dailer
+# yealink-dialer
 ## What does it do?
 It's just a small windows tray app that performs an http request to the phone's webserver, making it dial a number.
 
